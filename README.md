@@ -1,0 +1,1 @@
+A hub to provide feedback in form of bug reports or suggestions to help improve the Windows 10 experience and get a transparent view of their statuses.
